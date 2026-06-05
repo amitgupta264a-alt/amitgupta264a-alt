@@ -1,6 +1,4 @@
-
-
-https://github.com/user-attachments/assets/61f7861e-fb27-4de4-a4d5-b4ca946477de
+<img width="720" height="720" alt="Smarthemmingtricksandcleverinspirationwithtimelessstyleformakersandbeginners-Pin-920282505116773654-ezgif com-optimize" src="https://github.com/user-attachments/assets/c2e5261e-55e6-4dbc-a41b-7ebcfe703faa" />
 
 
 
