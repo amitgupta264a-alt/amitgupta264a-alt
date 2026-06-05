@@ -1,4 +1,5 @@
-<img width="245" height="115" alt="Sci-Fi Cyberpunk GIF" src="https://github.com/user-attachments/assets/b9ea5bd3-316a-472c-bbf5-7d982401cc29" />
+<img width="1600" height="270" alt="Art Glow GIF" src="https://github.com/user-attachments/assets/7cc0c525-bb3b-403a-a1f5-d3c974b202dc" />
+
 
 <h1 align="center">Hi 👋, I'm Amit Gupta</h1><br><br><p align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Application+Security+Learner;Software+Engineer" /><br></p>
 
