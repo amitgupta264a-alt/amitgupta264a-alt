@@ -9,8 +9,9 @@
   <img src="https://img.shields.io/badge/Application-Security-FF007F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-00F7FF?style=for-the-badge" />
 </p>
-<h2>Programming Languages</h2>
 <h1><center>TECH STACK </center></h1>
+<h2>Programming Languages</h2>
+
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
