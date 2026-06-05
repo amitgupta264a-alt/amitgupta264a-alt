@@ -1,7 +1,7 @@
 <img width="1600" height="800" alt="Art Glow GIF" src="https://github.com/user-attachments/assets/7cc0c525-bb3b-403a-a1f5-d3c974b202dc" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=HI,I am AMIT+GUPTA;CYBERSECURITY+ENTHUSIAST;APPLICATION+SECURITY;SECURING+THE+DIGITAL+WORLD" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=AMIT+GUPTA;CYBERSECURITY+ENTHUSIAST;APPLICATION+SECURITY;SECURING+THE+DIGITAL+WORLD" />
 </p>
 
 <p align="center">
