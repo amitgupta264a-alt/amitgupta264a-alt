@@ -1,15 +1,13 @@
 <img width="1600" height="800" alt="Art Glow GIF" src="https://github.com/user-attachments/assets/7cc0c525-bb3b-403a-a1f5-d3c974b202dc" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=AMIT+GUPTA;CYBERSECURITY+ENTHUSIAST;APPLICATION+SECURITY;SECURING+THE+DIGITAL+WORLD" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=HI,I am AMIT+GUPTA;CYBERSECURITY+ENTHUSIAST;APPLICATION+SECURITY;SECURING+THE+DIGITAL+WORLD" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Expertise-00FF41?style=for-the-badge&logo=hackthebox" />
   <img src="https://img.shields.io/badge/Application-Security-FF007F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-00F7FF?style=for-the-badge" />
-</p>
-<h1 align="center">Hi 👋, I'm Amit Gupta</h1><br><br><p align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Application+Security+Learner;Software+Engineer" /><br></p>
 
 
 ## 🌐 Socials:
