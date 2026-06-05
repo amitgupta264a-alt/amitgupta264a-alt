@@ -1,3 +1,4 @@
+<img width="480" height="270" alt="GIF by Vulture com" src="https://github.com/user-attachments/assets/49b36f59-a9f9-4c62-9656-966fe0a3d85b" />
 <img width="480" height="480" alt="gif" src="https://github.com/user-attachments/assets/b61116c9-6d4a-4155-b8a4-a27bd99db8b0" />
 
 <h1 align="center">Hi 👋, I'm Amit Gupta</h1><br><br><p align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Application+Security+Learner;Software+Engineer" /><br></p>
