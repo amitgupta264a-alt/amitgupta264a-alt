@@ -1,14 +1,14 @@
 <img width="1600" height="800" alt="Art Glow GIF" src="https://github.com/user-attachments/assets/7cc0c525-bb3b-403a-a1f5-d3c974b202dc" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=AMIT+GUPTA;CYBERSECURITY+ENTHUSIAST;APPLICATION+SECURITY;SECURING+THE+DIGITAL+WORLD" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=1200&lines=Hi+👋,+I'm+Amit+Gupta;CYBERSECURITY+ENTHUSIAST;APPLICATION+SECURITY;SECURING+THE+DIGITAL+WORLD" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Expertise-00FF41?style=for-the-badge&logo=hackthebox" />
   <img src="https://img.shields.io/badge/Application-Security-FF007F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-00F7FF?style=for-the-badge" />
-
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/amit-gupta-37454232a) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Amit gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ag350375@gmail.com) 
